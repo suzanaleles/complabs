@@ -1,5 +1,5 @@
 # Jupyter Notebooks - Comp Labs
-Development of computational labs for USC course in Environmental Science
+Development of computational labs for USC course in Environmental Science. Our goal was to develop computational labs that can complement the wet labs and introduce basic concepts in statistics and data analysis thinking. 
 
 Computational Lab 1: Correlations
 https://colab.research.google.com/drive/15IlnRgOsGS4B-LMv2PHNLH9xgqwDNAg4
